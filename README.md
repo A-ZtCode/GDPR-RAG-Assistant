@@ -14,13 +14,10 @@ At query time: input guardrail, retriever over a vector store of chunked GDPR te
 
 A separate ingestion pipeline chunks GDPR at the article level, computes embeddings, and loads the vector store.
 
-## Write-up series
+## Write-up series - ongoing
 
 - [Part 1: Foundations, Decisions, and One API Key I Nearly Leaked](docs/blog/part-01-foundations.md)
-- Part 2: Ingestion pipeline (coming)
-- Part 3: Retrieval and grounded generation (coming)
-- Part 4: Guardrails and evaluation (coming)
-- Part 5: Serving and deployment (coming)
+
 
 ## Tech stack
 
